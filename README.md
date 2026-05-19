@@ -156,4 +156,4 @@ python main.py
 
 # Author
 
-Sumanth Naga Turubhatla
+Naga Sumanth Turubhatla
